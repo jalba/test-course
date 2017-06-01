@@ -10,7 +10,7 @@ attachments :
 
 
 *** =instructions
-something new
+something wonderful, or not
 
 *** =hint
 
