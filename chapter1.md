@@ -4,6 +4,35 @@ description : Insert the chapter description here
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
+
+--- type:NormalExercise lang:r xp:100 skills:1 key:9edb792575
+## <<<New Exercise>>>
+
+
+*** =instructions
+something new
+
+*** =hint
+
+*** =pre_exercise_code
+```{r}
+
+```
+
+*** =sample_code
+```{r}
+
+```
+
+*** =solution
+```{r}
+
+```
+
+*** =sct
+```{r}
+
+```
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:e0d70bc0f4
 ## A really bad movie
 
